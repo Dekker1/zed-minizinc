@@ -1,0 +1,12 @@
+id = "minizinc"
+name = "MiniZinc"
+version = "0.1.0"
+schema_version = 1
+authors = ["Jip J. Dekker <jip.dekker@monash.edu>"]
+description = "MiniZinc language support for Zed"
+repository = "https://github.com/Dekker1/zed-minizinc"
+
+[grammars.minizinc]
+repository = "https://github.com/shackle-rs/shackle.git"
+commit = "67a2da7d7ff8c8668cf25c136f76544cfbc29b64"
+path = "parsers/tree-sitter-minizinc"

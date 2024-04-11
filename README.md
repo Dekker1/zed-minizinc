@@ -1,2 +1,3 @@
-# zed-minizinc
+# Zed MiniZinc
+
 A MiniZinc extension for Zed
